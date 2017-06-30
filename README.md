@@ -1,1 +1,3 @@
-# Tetris
+# Tetris Specifications
+## Shape Object
+### Orientation
