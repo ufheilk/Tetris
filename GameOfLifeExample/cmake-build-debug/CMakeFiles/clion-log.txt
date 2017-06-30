@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/keaton/Documents/Programming/C++/GOL
+-- Found SFML .. in /Users/keaton/Documents/Programming/C++/sfml/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/keaton/Documents/Programming/C++/GOL/cmake-build-debug
